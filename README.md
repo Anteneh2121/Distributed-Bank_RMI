@@ -42,15 +42,3 @@ Start the server ./start-server.sh
 
 Start the client ./start-client.sh
 
-```
-## Usage
-
-There are two ways to run the application the application
-
-
-```Ubuntu 20.04
-
-```
-
-
-```
