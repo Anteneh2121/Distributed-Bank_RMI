@@ -55,13 +55,13 @@ Start the server ./start-server.sh
 
 Start the client ./start-client.sh
 
-## Author :black_nib:
+## Author 🏴✒️
 
-* **Anteneh Bizuneh** <[Anteneh2121](https://github.com/Anteneh2121)>
+* __Anteneh Kassaw Bizuneh__ <[Anteneh2121](https://github.com/Anteneh2121)>
 
-* **Tesfay Daniel** <[TesfayDaniel](https://github.com/TesfayDaniel)>
+* __Tesfay Daniel** <[TesfayDaniel](https://github.com/TesfayDaniel)>
 
-* **Robel Debebe** <[robeldebebe](https://github.com/robeldebebe)>
+* __Robel Debebe** <[robeldebebe](https://github.com/robeldebebe)>
 
 
 
