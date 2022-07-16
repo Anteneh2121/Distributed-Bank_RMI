@@ -2,7 +2,7 @@
 
  Banking system Remote Method Invocation
 
-*A Distributed Banking System including a bank (server) and ATM (client) using Java RMI.
+* A Distributed Banking System including a bank (server) and ATM (client) using Java RMI.
 
 
 
@@ -45,7 +45,7 @@ Run ./compile.sh
 
 Start the registry ./start-registry.sh
 
-`A Java RMI registry is a simplified name service that allows clients to get a reference (a stub) to a remote object. In general, a registry is used (if at all) only to locate the first remote object a client needs to use`
+` A Java RMI registry is a simplified name service that allows clients to get a reference (a stub) to a remote object. In general, a registry is used (if at all) only to locate the first remote object a client needs to use `
 
 Start the server ./start-server.sh
 
