@@ -67,7 +67,7 @@ Start the client ./start-client.sh
 
 ## Acknowledgements 🙏:
 
-To our Instructor **Befekadu Belete(MSC)**
+To our Instructor **Befekadu Belete**
 
 
 
