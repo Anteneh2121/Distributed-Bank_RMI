@@ -57,11 +57,11 @@ Start the client ./start-client.sh
 
 ## Author 🏴✒️
 
-* __Anteneh Kassaw Bizuneh__ [Anteneh2121](https://github.com/Anteneh2121)
+* * Anteneh Bizuneh - [Github](https://github.com/Anteneh2121) 
 
-* __Tesfay Daniel** [TesfayDaniel](https://github.com/TesfayDaniel)
+* * Tesfay Daniel [TesfayDaniel](https://github.com/TesfayDaniel)
 
-* __Robel Debebe** [robeldebebe](https://github.com/robeldebebe)
+* Robel Debebe [robeldebebe](https://github.com/robeldebebe)
 
 
 
