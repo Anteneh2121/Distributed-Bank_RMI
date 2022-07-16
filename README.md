@@ -67,8 +67,4 @@ Robel Debebe [robeldebebe](https://github.com/robeldebebe)
 
 ## Acknowledgements 🙏:
 
-To our Instructor **Befekadu Belete**
-
-
-
-
+To our Instructor Befekadu Belete
