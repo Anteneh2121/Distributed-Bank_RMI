@@ -4,6 +4,12 @@
 
 *A Distributed Banking System including a bank (server) and ATM (client) using Java RMI.
 
+
+   **Home page**
+<p align="center">
+  <img src="https://github.com/Anteneh2121/Distributed-Bank_RMI/blob/main/bankServer.PNG">
+</p>
+
  ##  Installation
 
 ```install on ubuntu 20.04 machine using the ff command
