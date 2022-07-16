@@ -52,12 +52,5 @@ There are two ways to run the application the application
 
 ```
 
-### Run as Flask application 
 
-Go to the same directory as the main application and run the following
-
-
-```bash
-export FLASK_APP=app.py
-flask run
 ```
