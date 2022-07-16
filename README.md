@@ -5,6 +5,7 @@
 *A Distributed Banking System including a bank (server) and ATM (client) using Java RMI.
 
 
+
    **Home page**
 <p align="center">
   <img src="https://github.com/Anteneh2121/Distributed-Bank_RMI/blob/main/bankServer.PNG">
@@ -43,6 +44,8 @@ adduser@ET-27608:~/Distributed-Bank_RMI/scripts$
 Run ./compile.sh
 
 Start the registry ./start-registry.sh
+
+*A Java RMI registry is a simplified name service that allows clients to get a reference (a stub) to a remote object. In general, a registry is used (if at all) only to locate the first remote object a client needs to use
 
 Start the server ./start-server.sh
 
