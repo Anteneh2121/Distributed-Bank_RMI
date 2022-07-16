@@ -28,7 +28,7 @@ Use the package manager apt-get to install the dependencies.
 
 Go in the same directory  and run the following
 
-```Ubuntu 20.04
+Ubuntu 20.04
 
 ## Usage
 
