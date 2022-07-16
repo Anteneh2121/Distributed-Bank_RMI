@@ -11,6 +11,10 @@
   <img src="https://github.com/Anteneh2121/Distributed-Bank_RMI/blob/main/bankServer.PNG">
 </p>
 
+<p align="center">
+  <img src="https://github.com/Anteneh2121/Distributed-Bank_RMI/blob/main/RMI.png">
+</p>
+
  ##  Installation
 
 ```install on ubuntu 20.04 machine using the ff command
